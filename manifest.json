@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "House-Of-Leave-Blue",
+  "description": "Changes all occurences of the word 'house' to be blue",
+  "version": "1.0.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "changeColors.js"
+      ]
+    } 
+  ]
+}
