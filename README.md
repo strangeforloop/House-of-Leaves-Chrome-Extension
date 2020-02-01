@@ -6,6 +6,8 @@ This chrome extension aims to extend a sense of verisimilitude to the book House
 When the extension is enabled, all occurences of the word house on any webpage will be blue.
 <br/>
 The aim is to catch people off guard and bring back the sense of being encompassed by the book's reality.
+<br/>
+The technical focus of this project is to do DOM manipulation and traversal without the use of a framework.
 
 # Author's Motivation
 [Here](https://www.reddit.com/r/houseofleaves/comments/3lqfro/why_is_house_in_blue_see_comment_pls/) is a Reddit post speculating on the motivation behind why the book was stylized this way.
