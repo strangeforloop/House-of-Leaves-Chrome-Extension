@@ -13,3 +13,8 @@ The technical focus of this project is to do DOM manipulation and traversal with
 [Here](https://www.reddit.com/r/houseofleaves/comments/3lqfro/why_is_house_in_blue_see_comment_pls/) is a Reddit post speculating on the motivation behind why the book was stylized this way.
 
 ![House of Leaves Book Cover](house-of-leaves-book-cover.jpg)
+
+# Challenges
+All input elements have to be ignored, otherwise undesirable results are displayed in the input box.
+All img elements have to be ignored, otherwise the path to the pictures will get corrupted.
+All links have to be ignored, otherwise the link won't work.
