@@ -6,7 +6,7 @@ This chrome extension aims to extend a sense of verisimilitude to the book House
 When the extension is enabled, all occurences of the word house on any webpage will be blue.
 <br/>
 The aim is to catch people off guard and bring back the sense of being encompassed by the book's reality.
-<br/>
+<br/><br/>
 The technical focus of this project is to do DOM manipulation and traversal without the use of a library like jQuery.
 
 # Author's Motivation
